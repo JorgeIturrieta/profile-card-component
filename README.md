@@ -64,8 +64,9 @@ I learned how to position two images with pseudo elements before and after.
     transform: translate(50%, 50%);
     background: url('/images/bg-pattern-bottom.svg') top left no-repeat;
 }
+```
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/JorgeIturrieta/solutions)
+- Frontend Mentor - [@JorgeIturrieta](https://www.frontendmentor.io/profile/JorgeIturrieta/solutions)
 
 
