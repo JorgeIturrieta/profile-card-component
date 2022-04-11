@@ -38,12 +38,12 @@ body {
 
 .wrapper-content::before {
     transform: translate(-50%, -50%);
-    background: url('/images/bg-pattern-top.svg') bottom right no-repeat;
+    background: url('../images/bg-pattern-top.svg') bottom right no-repeat;
 }
 
 .wrapper-content::after {
     transform: translate(50%, 50%);
-    background: url('/images/bg-pattern-bottom.svg') top left no-repeat;
+    background: url('../images/bg-pattern-bottom.svg') top left no-repeat;
 }
 
 /* Card  */
